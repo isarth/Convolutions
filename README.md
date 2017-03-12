@@ -1,6 +1,6 @@
 # Understanding Convolutions
 Took an image and applied outline kernal.Clearly the outlines were bright whereas the most of the region was black.
-<p >For Better understanding follow the blog <a url='http://setosa.io/ev/image-kernels/'>link</a>>
+<p >For Better understanding follow the blog <a href="http://setosa.io/ev/image-kernels/">link</a>
 </p>
 Original Image
 <p >
