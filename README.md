@@ -4,7 +4,7 @@ Took an image and applied outline kernal.Clearly the outlines were bright wherea
 </p>
 Original Image
 <p >
-  <img src="./Images/cov1.tiff" width="350"/>
+  <img src="./Images/tesla.png" width="350"/>
 </p>
 Image after applying Convolution
 <p >
